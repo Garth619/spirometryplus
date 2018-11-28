@@ -1,0 +1,9 @@
+#adminmenu .menu-icon-ts_testimonial div.wp-menu-image:before
+,#adminmenu .menu-icon-ts_portfolio div.wp-menu-image:before
+,#adminmenu .menu-icon-ts_team div.wp-menu-image:before
+,#adminmenu .menu-icon-ts_logo div.wp-menu-image:before{font: normal normal normal 17px/1 FontAwesome;}
+
+#adminmenu .menu-icon-ts_testimonial div.wp-menu-image:before{content: "\f10d";}
+#adminmenu .menu-icon-ts_portfolio div.wp-menu-image:before{content: "\f03e";}
+#adminmenu .menu-icon-ts_team div.wp-menu-image:before{content: "\f0c0";}
+#adminmenu .menu-icon-ts_logo div.wp-menu-image:before{content: "\f009";}
